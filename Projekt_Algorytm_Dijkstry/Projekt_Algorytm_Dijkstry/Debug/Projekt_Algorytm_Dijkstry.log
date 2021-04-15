@@ -1,0 +1,6 @@
+﻿  Źródło.cpp
+c:\users\kamil\source\repos\projekt_algorytm_dijkstry\projekt_algorytm_dijkstry\źródło.cpp(198): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\kamil\source\repos\projekt_algorytm_dijkstry\projekt_algorytm_dijkstry\źródło.cpp(27): warning C4101: "ws": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\kamil\source\repos\projekt_algorytm_dijkstry\projekt_algorytm_dijkstry\źródło.cpp(252): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kamil\source\repos\projekt_algorytm_dijkstry\projekt_algorytm_dijkstry\źródło.cpp(261): warning C4715: "if_int”: niewszystkie ścieżki kodu zwracają wartość
+  Projekt_Algorytm_Dijkstry.vcxproj -> C:\Users\Kamil\source\repos\Projekt_Algorytm_Dijkstry\Debug\Projekt_Algorytm_Dijkstry.exe
